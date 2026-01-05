@@ -1,0 +1,2 @@
+# Real-Time-Object-Detection-with-Audio-Feedback-YOLOv3-
+A real-time computer vision application that detects objects from a live webcam feed using YOLOv3 and provides audio feedback describing detected objects and their relative positions. Built with OpenCV’s DNN module and text-to-speech, the system demonstrates real-time object detection, confidence filtering, and accessibility-focused AI applications
