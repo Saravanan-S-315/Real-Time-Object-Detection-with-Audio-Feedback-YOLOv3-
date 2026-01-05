@@ -75,5 +75,5 @@ This project implements a **real-time object detection system** using **YOLOv3 (
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/yolo-audio-detection.git
-cd yolo-audio-detection
+git clone https://github.com/Saravanan-S-315/Real-Time-Object-Detection-with-Audio-Feedback-YOLOv3.git
+cd Real-Time-Object-Detection-with-Audio-Feedback-YOLOv3
