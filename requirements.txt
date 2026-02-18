@@ -1,4 +1,0 @@
-opencv-python
-numpy
-gTTS
-playsound==1.2.2
